@@ -1,0 +1,15 @@
+import { CgPhone} from 'react-icons/cg';
+import { MdEmail} from 'react-icons/md';
+import wan from "../images/1.jpg";
+import { BiSwim} from 'react-icons/bi';
+import { GiPhotoCamera} from 'react-icons/gi';
+import { FaBicycle} from 'react-icons/fa';
+import { ImHeadphones} from 'react-icons/im';
+import { FaFootballBall} from 'react-icons/fa';
+import { AiFillHtml5} from 'react-icons/ai';
+import { SiJavascript} from 'react-icons/si';
+import { FaReact} from 'react-icons/fa';
+import { SiTailwindcss} from 'react-icons/si';
+import { SiJquery} from 'react-icons/si';
+import { FaAws} from 'react-icons/fa';
+import top from '../images/3.jpg';
